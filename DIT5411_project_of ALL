@@ -1,0 +1,24 @@
+# Full project archive (DIT5411)
+
+Because the complete project folder is larger than GitHub's web upload limit,  
+the full project directory has been compressed and uploaded to Google Drive.
+
+## Download link
+
+You can download the full project archive from:
+
+https://drive.google.com/drive/folders/1cQnJ0xZZ-mgfU3Dk7DSJH18uH4Ab_ad4?usp=sharing
+
+(The link is set to "Anyone with the link can view/download".)
+
+## Contents of the archive
+
+The archive `DIT5411_project_of_ALL.zip` contains:
+
+- All source code files
+- Notebooks used during development
+- Trained models and intermediate checkpoints
+- Generated results (plots, logs, metrics)
+- Any additional assets used in the project
+
+This archive represents the full working directory used during development and experimentation.
