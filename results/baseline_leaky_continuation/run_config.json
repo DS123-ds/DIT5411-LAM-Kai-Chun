@@ -1,0 +1,13 @@
+{
+  "experiment": "baseline_leaky_continuation",
+  "source_checkpoint": "/kaggle/working/DIT5411_project/diagnostic_runs/baseline_leaky_continue_20261117T180649_946496Z/last.keras",
+  "start_optimizer_updates": 30000,
+  "requested_additional_updates": 15000,
+  "learning_rate": 9.999999747378752e-05,
+  "seed_for_validation_sampling": 2026,
+  "validation_split": "validation",
+  "validation_images": 4096,
+  "dataset_iterator_restored": false,
+  "test_evaluated": false,
+  "note": "Model and optimizer restored. Training dataset iterator restarts; updates must not be interpreted as full epochs."
+}
