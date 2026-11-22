@@ -1,0 +1,18 @@
+{
+  "status": "draft_pending_short_class_policy",
+  "ordering": "numeric filename suffix, ascending",
+  "training_rule": "first 40 available samples in numeric order",
+  "short_class_rule": "pending; not assigned to training or testing",
+  "image_counts": {
+    "train_pool": 520880,
+    "test": 162550,
+    "pending": 1247
+  },
+  "class_counts": {
+    "train_pool": 13022,
+    "test": 13022,
+    "pending": 43
+  },
+  "total_images": 684677,
+  "total_classes": 13065
+}

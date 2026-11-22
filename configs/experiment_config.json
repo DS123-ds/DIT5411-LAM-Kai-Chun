@@ -1,0 +1,32 @@
+{
+  "seed": 2026,
+  "num_classes": 13065,
+  "image_size": [
+    128,
+    128
+  ],
+  "color_mode": "grayscale",
+  "validation_images_per_class": 4,
+  "development_training_items_per_class": 200,
+  "short_class_policy": "Use all available original images as the training pool; reserve 4 per class for development validation. No test images exist for these 43 classes. This exception has not been approved by the instructor.",
+  "test_class_coverage": 13022,
+  "augmentation_status": "Plan only; transformed images not generated yet",
+  "final_refit_policy": "After selecting settings using validation, rebuild training from train plus validation, without using test images.",
+  "augmentation_parameters": {
+    "rotation_degrees": [
+      -9,
+      9
+    ],
+    "translation_fraction": [
+      -0.05,
+      0.05
+    ],
+    "zoom_factor_range": [
+      -0.08,
+      0.08
+    ],
+    "fill_value": 1.0,
+    "horizontal_flip": false,
+    "vertical_flip": false
+  }
+}
